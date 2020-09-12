@@ -1,0 +1,6 @@
+hr { 
+	color: #999; /*для IE */ 
+	background-color:#999; /*для Firefox, Opera, Safari*/ 
+	border:0px none; 
+	height:1px; /* высота 1px IE, Firefox, Opera, Safari */
+	}
